@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SquareImageView">
+        <attr name="fit" format="enum">
+            <enum name="fit_width" value="0" />
+            <enum name="fit_height" value="1" />
+        </attr>
+    </declare-styleable>
+</resources>

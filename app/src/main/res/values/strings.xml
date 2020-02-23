@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Giphy</string>
+    <string name="type_here">Type here!</string>
+    <string name="error_message">Something went wrong!</string>
+    <string name="try_another_search">No gifs?\nTry another search!</string>
+    <string name="intro">Looking for a Funny Gif?</string>
+    <string name="start_typing">Start typing!</string>
+</resources>
